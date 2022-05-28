@@ -1,0 +1,9 @@
+ is rejected.
+a is accepted.
+aba is accepted.
+ababa is accepted.
+abababa is accepted.
+ab is rejected.
+abab is rejected.
+aaba is rejected.
+abba is rejected.
